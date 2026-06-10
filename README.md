@@ -2,6 +2,10 @@
 
 This is a **Google Apps Script** that automates the daily sign-in process for **Arknights: Endfield** (SKPORT/Gryphline). It runs automatically on Google's servers, so you don't need to keep your computer on.
 
+## Video Setup Tutorial
+[![Endfield Auto Daily Check-In](https://img.youtube.com/vi/zGHlOtD7waY/0.jpg)](https://www.youtube.com/watch?v=zGHlOtD7waY)
+
+
 ## Features
 
 - ✅ **Auto Check-in:** Runs automatically every day (set to 3:00 AM UTC+7 / Asia/Jakarta).
