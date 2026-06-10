@@ -8,7 +8,7 @@
 // ==========================================
 
 // Get this from: DevTools > Application > Cookies > .skport.com > ACCOUNT_TOKEN
-const ACCOUNT_TOKEN = "YOUR_ACCOUNT_TOKEN_HERE";
+const ACCOUNT_TOKEN = decodeURIComponent("YOUR_ACCOUNT_TOKEN_HERE");
 
 // (Optional) Paste Discord Webhook URL. Leave empty "" to disable.
 const DISCORD_WEBHOOK_URL = "";
